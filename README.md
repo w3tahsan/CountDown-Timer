@@ -28,10 +28,10 @@ Usage
 **HTML**
 
 ```
-<h3 id="days">0</h3>
-<h3 id="hours">0</h3>
-<h3 id="minutes">0</h3>
-<h3 id="seconds">0</h3>
+<h2 id="days">0</h2>
+<h2 id="hours">0</h2>
+<h2 id="minutes">0</h2>
+<h2 id="seconds">0</h2>
 ```
 
 Social Links
