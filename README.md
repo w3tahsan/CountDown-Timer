@@ -33,6 +33,12 @@ Usage
 <h2 id="minutes">0</h2>
 <h2 id="seconds">0</h2>
 ```
+**CUSTOMIZE DATE**
+
+```
+Go to countdown.js file and find this code below and change the date as you want
+let countDown = new Date('Sep 30, 2020 00:00:00').getTime(),
+```
 
 Social Links
 ============
