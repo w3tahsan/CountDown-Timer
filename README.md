@@ -11,11 +11,6 @@ Features:
 
 *Requires [jQuery library file any version]
 
-Demo
-====
-
-**[DEMO](https://github.com/w3tahsan/CountDown-Timer)**
-
 Usage
 =====
 
